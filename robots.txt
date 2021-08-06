@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://how-to-get-help-in-windows-10.herokuapp.com/host-https-www.laptopmag.com/sitemap.xml
+Sitemap: https://how-to-get-help-in-windows-10.herokuapp.com/sitemap.xml
